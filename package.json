@@ -13,7 +13,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "netlify-build": "CI = react-scripts build",
+    "netlify-build": "react-scripts build",
     "local-build": "react-scripts build",
     "test": "echo \"Error: no test specified\" && exit 1",
     "eject": "react-scripts eject"
